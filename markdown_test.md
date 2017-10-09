@@ -2,8 +2,10 @@
 ### this is a subtitle
 __hightlight__
 
-```
-	this is a code
+```js
+	var a = 0;
+    a++;
+    console.log(a);
 ```
 
 1. first
