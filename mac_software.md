@@ -37,3 +37,5 @@ brew cask install launchrocket
 ###appcleaner
 ###cheatsheet
 ###iterm2
+###solarized
+beautiful theme
