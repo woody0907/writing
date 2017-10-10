@@ -1,4 +1,4 @@
-#Homebrew
+# Homebrew
 The missing package manager for macOS
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
