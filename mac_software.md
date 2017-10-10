@@ -18,30 +18,30 @@ brew update
 brew doctor
 ```
 
-###Cask
+### Cask
 cask extends homebrew and brings its elegance,simplicity,and speed to macOS applications and large binaries alike
 ```
 brew tap caskroom/cask
 ```
-###Cakebrew
+### Cakebrew
 the mac app for homebrew
 ```
 brew cask install cakebrew
 ```
-###LaunchRocket
+### LaunchRocket
 A Mac PrePane to manage all your homebrew installed services
 ```
 brew cask install launchrocket
 ```
 
-###appcleaner
-###cheatsheet
-###iterm2
-###solarized
+### appcleaner
+## cheatsheet
+### iterm2
+### solarized
 beautiful theme
-###alfred
+### alfred
 the cracked software is in my baidu pan
-###mysql
+### mysql
 ```
 brew install mysql
 mysql.server start
