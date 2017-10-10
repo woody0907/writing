@@ -41,3 +41,26 @@ brew cask install launchrocket
 beautiful theme
 ###alfred
 the cracked software is in my baidu pan
+###mysql
+```
+brew install mysql
+mysql.server start
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
