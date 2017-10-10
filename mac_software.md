@@ -39,3 +39,5 @@ brew cask install launchrocket
 ###iterm2
 ###solarized
 beautiful theme
+###alfred
+the cracked software is in my baidu pan
