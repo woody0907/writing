@@ -1,0 +1,2 @@
+## MDM
+https://www.youtube.com/redirect?event=video_description&v=_GnDiwngnXk&q=https%3A%2F%2Fwww.graphgrid.com%2Fgraph-advantage-master-data-management%2F&redir_token=kI5S01X3IJxUAbu86WqsFxEbhi18MTUwNzgyMjE2OUAxNTA3NzM1NzY5
