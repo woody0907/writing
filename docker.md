@@ -37,8 +37,7 @@ vi GNUmakefile
 ### add ZENHOME=.
 ### then you nead intall autoconf,and then
 sudo make "CPP=gcc -E -ffreestanding"
-sudo cp wmic /usr/local/bin
-```
+sudo cp wmic /usr/local/bin```
 
 * test pythonwmic
 ```
