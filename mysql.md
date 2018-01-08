@@ -20,6 +20,10 @@ other mysql version:
 mysql>update MySQL.user set password=PASSWORD('新密码') where User='root'; 
 
 
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'monty'@'%'
+    ->     WITH GRANT OPTION;
+
+
 
 
 

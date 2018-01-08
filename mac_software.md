@@ -28,7 +28,7 @@ the mac app for homebrew
 ```
 brew cask install cakebrew
 ```
-### LaunchRocket
+### p
 A Mac PrePane to manage all your homebrew installed services
 ```
 brew cask install launchrocket

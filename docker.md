@@ -7,7 +7,7 @@
 * build the image 
 ```
 docker build woody/pythonwmi .
-```
+```==c
 
 * creat and start a new container
 
